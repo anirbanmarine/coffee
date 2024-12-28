@@ -1,20 +1,15 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
+title: Coffeeverse Durgapur
+description: Welcome to Home to the best coffee in Durgapur
 slug: hello-world
-date: 2022-03-06 00:00:00+0000
-image: 1.jpg
+date: 2024-12-28 11:31:00+0530
+image: 1.png
 categories:
-    - Example Category
+    - About
 tags:
-    - Example Tag
+    - [coffee,cafe,durgapur]
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
+Welcome to the nook of peace right in the heart of Durgapur.
+Here is an island of peace where you can devote some quality time for yourself.
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
-
-For more information about this theme, check the documentation: https://stack.jimmycai.com/
-
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
-
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
