@@ -1,8 +1,11 @@
 ---
-title: Image gallery
+title: coffee gallery
 description: Gallery of Our Products
 date: 2024-12-28 00:11:38+0530
 image: featured.jpg
+categories:
+    - coffee
+tags: [coffee,cafe,durgapur]
 ---
 
 A Gallery of our most favoured products

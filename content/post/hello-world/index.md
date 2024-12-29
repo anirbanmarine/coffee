@@ -6,8 +6,7 @@ date: 2024-12-28 11:31:00+0530
 image: 1.png
 categories:
     - About
-tags:
-    - [coffee,cafe,durgapur]
+tags: [coffee,cafe,durgapur]
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 Welcome to the nook of peace right in the heart of Durgapur.
