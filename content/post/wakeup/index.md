@@ -4,8 +4,8 @@ description: Our Daily Wishes
 date: 2024-12-31 05:57:04+0530 
 image: SUNRISE.jpg
 categories:
-    - coffee
-tags: [coffee,cafe,wishes]
+    - about
+tags: [good morning,wishes]
 ---
 
 Have a nice day!
