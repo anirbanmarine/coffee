@@ -22,4 +22,3 @@ A Gallery of our most favoured products
 ![Cappuchino 2](10.jpg)
 ![Machine 1](11.jpg)  
 ![Machine 2](12.jpg)
-
