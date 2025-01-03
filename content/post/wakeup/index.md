@@ -1,12 +1,15 @@
 ---
 title: Wake up
 description: Our Daily Wishes
-date: 2025-01-02 05:10:00+0530 
-image: SUNRISE.jpg
+date: 2025-01-03 04:53:00+0530 
+image: g19164.png
 categories:
     - about
 tags: [good morning,wishes]
 ---
+Good Morning!
+Enjoy the Tea and wake up to a new year and a day.
+![Good Morning](g19164.png)  
 
 Good Morning!
 Enjoy the Tea and wake up to a new year and a day.
