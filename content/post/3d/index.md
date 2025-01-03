@@ -9,4 +9,4 @@ categories:
 tags: [coffee,world]
 weight: 15       # You can add weight to some posts to override the default sorting (date descending)
 ---
-[the Earth](index.html)
+[the Earth](earth.html)
