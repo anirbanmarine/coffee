@@ -3,3 +3,6 @@
 A small cafe which was there and still resides in my dreams.
 I don't know when i can start it back again...pehaps in a different time and space.
 Where the economy is more evolved and people can spend money for coffee.
+
+Sometimes I think ... was it even real!
+But then the old utensils remind me.
